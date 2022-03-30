@@ -1,0 +1,21 @@
+.error {
+  color: red;
+}
+
+.reset {
+  margin-left: 15px;
+}
+
+.pic {
+  opacity: 0;
+  margin-left: -20%;
+}
+
+.upload {
+  margin-left: 100px;
+}
+.field {
+  background-color: #faebd8;
+  border: none;
+  border-radius: 5%;
+}
